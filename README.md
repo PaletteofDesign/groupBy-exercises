@@ -1,1 +1,1 @@
-# groupBy-exercises
+# groupby-exercises
